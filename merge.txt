@@ -1,1 +1,1 @@
-Some text added master branch
+Merge Conflict Will Happen
